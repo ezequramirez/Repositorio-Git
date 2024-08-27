@@ -1,0 +1,11 @@
+Ramirez
+Equipo de futbol: Ferro
+Mascota: Si
+activadad preferida: Dormir
+color favrito: Verde
+
+Oshiro
+Equipo de futbol: Boca
+Mascota: No
+Actividad preferida: Jugar al futbol
+color favorito: Gris
